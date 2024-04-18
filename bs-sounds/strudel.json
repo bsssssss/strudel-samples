@@ -1,0 +1,34 @@
+{
+    "_base": "https://raw.githubusercontent.com/bsssssss/strudel-samples/main/bs-sounds",
+    "bs_bass": [
+        "bs-sounds/bs_bass/bs-bass-808-2.wav",
+        "bs-sounds/bs_bass/bs-bass-808-1.wav"
+    ],
+    "bs_bd": [
+        "bs-sounds/bs_bd/RESAMPLING 0037 [2024-04-10 162856].wav",
+        "bs-sounds/bs_bd/RESAMPLING 36 [2024-04-10 163137].wav",
+        "bs-sounds/bs_bd/RESAMPLING 30 [2024-04-10 162708].wav",
+        "bs-sounds/bs_bd/RESAMPLING 0040 [2024-04-10 163133].wav",
+        "bs-sounds/bs_bd/RESAMPLING 0034 [2024-04-10 162654].wav",
+        "bs-sounds/bs_bd/RESAMPLING 33 [2024-04-10 162900].wav",
+        "bs-sounds/bs_bd/RESAMPLING 32 [2024-04-10 162826].wav",
+        "bs-sounds/bs_bd/RESAMPLING 0038 [2024-04-10 162930].wav"
+    ],
+    "bs_sd": [
+        "bs-sounds/bs_sd/RESAMPLING 0043 [2024-04-10 163736].wav",
+        "bs-sounds/bs_sd/RESAMPLING 0044 [2024-04-10 163858].wav",
+        "bs-sounds/bs_sd/RESAMPLING 0047 [2024-04-10 164437].wav",
+        "bs-sounds/bs_sd/RESAMPLING 38 [2024-04-10 163634].wav"
+    ],
+    "bs_hh": [
+        "bs-sounds/bs_hh/RESAMPLING 27 [2024-04-10 162217].wav",
+        "bs-sounds/bs_hh/RESAMPLING 28 [2024-04-10 162231].wav",
+        "bs-sounds/bs_hh/RESAMPLING 29 [2024-04-10 162432].wav",
+        "bs-sounds/bs_hh/RESAMPLING 23 [2024-04-10 161918].wav",
+        "bs-sounds/bs_hh/RESAMPLING 22 [2024-04-10 161818].wav",
+        "bs-sounds/bs_hh/RESAMPLING 24 [2024-04-10 162100].wav"
+    ],
+    "bs_cb": [
+        "bs-sounds/bs_cb/RESAMPLING 39 [2024-04-10 163738].wav"
+    ]
+}
